@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">RCheats</string>
+    <string name="rcheats">RCheats</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_a_key">Don\'t have a key?</string>
+    <string name="get_the_key">Get the key</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="toast_message">Toast message</string>
+    <string name="ok">OK</string>
+    <string name="rdialog_message">RDialog message</string>
+    <string name="stop_cheats">Stop Cheats</string>
+    <string name="stop_cheat">Stop Cheat</string>
+    <string name="start_cheat">Start Cheat</string>
+    <string name="global_version">Global version</string>
+    <string name="vietnam_version">Vietnam version</string>
+    <string name="korea_version">Korea version</string>
+    <string name="pubgm_version">PUBGM version:</string>
+    <string name="contact_me">Contact me</string>
+    <string name="general_characters_vision">General characters vision</string>
+    <string name="name">Name</string>
+    <string name="distance">Distance</string>
+    <string name="health">Health</string>
+    <string name="team_id">Team ID</string>
+    <string name="box">Box</string>
+    <string name="radar_line">Radar line</string>
+    <string name="skeleton">Skeleton</string>
+    <string name="weapon">Weapon</string>
+    <string name="count">Count</string>
+    <string name="_360_warning">360 warning</string>
+    <string name="head_dots">Head dots</string>
+    <string name="grenade_alert">Grenade alert</string>
+    <string name="others">Others</string>
+    <string name="less_recoil">Less Recoil</string>
+    <string name="instant_hit">Instant Hit</string>
+    <string name="fast_parachute">Fast Parachute</string>
+    <string name="frame_rate">Frame rate</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="raincitygaming">RainCityGaming</string>
+    <string name="balanced">Balanced</string>
+    <string name="hd">HD</string>
+    <string name="hdr">HDR</string>
+    <string name="extreme">Extreme</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="_90_fps">90 fps</string>
+    <string name="hide_grass">Hide Grass</string>
+    <string name="hide_fog">Hide FOG</string>
+    <string-array name="pubgm_version">
+        <item>Global</item>
+        <item>Vietnam</item>
+        <item>Korea</item>
+    </string-array>
+    <string-array name="graphics_quality">
+        <item>Balanced</item>
+        <item>HD</item>
+        <item>HDR</item>
+        <item>UltralHigh</item>
+    </string-array>
+    <string-array name="frame_rate">
+        <item>Default</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>Hight</item>
+        <item>Ultra</item>
+        <item>Extreme</item>
+        <item>90 fps</item>
+    </string-array>
+</resources>

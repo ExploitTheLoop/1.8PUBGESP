@@ -1,0 +1,1 @@
+copy %~dp0..\libs\armeabi-v7a\rcheatsdaemon ..\assets\rd1
